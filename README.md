@@ -54,21 +54,11 @@
 
 ## 📸 Screenshots
 
-### Homepage
-![Homepage](Homepage.png)
-
-### Products Page
-![Products](Products.png)
-
-### Cart Page
-![Cart](Cart.png)
-
-### Contact Page
-![Contact](Contact%20US.png)
-
-### About Page
-![About](About%20US.png)
-
+![Homepage](images/Homepage.png)
+![Products](images/Products.png)
+![Cart](images/Cart.png)
+![Contact](images/Contact%20US.png)
+![About](images/About%20US.png)
 ---
 
 ## 🚧 Challenges
