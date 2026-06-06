@@ -4,7 +4,8 @@
 ---
 
 ## 👤 Student Information
-- **Name:** Ahmed Atif
+- **Name:** Ahmed Atif Abdalla
+- **Registration Number:** 24454/2024
 - **GitHub:** ahmedatif112
 - **Course:** E-Commerce And Web Application | EWA408510
 - **Academic Year:** 2025-2026 | Semester II
